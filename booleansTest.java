@@ -1,6 +1,6 @@
 package JUnit_Proyect;
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.Test;
+import static junit.framework.Assert.assertEquals;
 
 public class booleansTest {
     @Test
